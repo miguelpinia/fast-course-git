@@ -1,3 +1,5 @@
-* Hola Lisseth
-
 Este es un primer archivo que voy a sincronizar.
+
+Añadimos cambios para reflejarlos en el repositorio remoto.
+
+* Titulo cambiado
